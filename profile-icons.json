@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "base": "https://cdn.jsdelivr.net/gh/Lnckkk/streamflix-profile-icons@v4",
+  "version": 5,
+  "base": "https://cdn.jsdelivr.net/gh/Lnckkk/streamflix-profile-icons@v5",
   "groups": [
     {
       "key": "avatar",
@@ -8,7 +8,31 @@
       "icons": [
         {
           "character": "Jake Sully",
-          "file": "avatar/jake-sully.webp",
+          "file": "public-icons/avatar/jake-sully.webp",
+          "bg": "linear-gradient(135deg,#2563EB,#06B6D4)",
+          "pos": "30% 20%"
+        },
+        {
+          "character": "Neytiri",
+          "file": "public-icons/avatar/neytiri.webp",
+          "bg": "linear-gradient(135deg,#2563EB,#06B6D4)",
+          "pos": "30% 20%"
+        },
+        {
+          "character": "Colonel Miles Quaritch",
+          "file": "public-icons/avatar/colonel-miles-quaritch.webp",
+          "bg": "linear-gradient(135deg,#2563EB,#06B6D4)",
+          "pos": "30% 20%"
+        },
+        {
+          "character": "Grace",
+          "file": "public-icons/avatar/grace.webp",
+          "bg": "linear-gradient(135deg,#2563EB,#06B6D4)",
+          "pos": "30% 20%"
+        },
+        {
+          "character": "Trudy Chacon",
+          "file": "public-icons/avatar/trudy-chacon.webp",
           "bg": "linear-gradient(135deg,#2563EB,#06B6D4)",
           "pos": "30% 20%"
         }
