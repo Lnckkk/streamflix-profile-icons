@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "base": "https://cdn.jsdelivr.net/gh/Lnckkk/streamflix-profile-icons@main",
+  "base": "https://cdn.jsdelivr.net/gh/Lnckkk/streamflix-profile-icons@v1",
   "groups": [
     {
       "key": "avatar",
