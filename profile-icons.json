@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "base": "https://cdn.jsdelivr.net/gh/Lnckkk/streamflix-profile-icons@main",
+  "groups": [
+    {
+      "key": "avatar",
+      "title": "Avatar",
+      "icons": [
+        {
+          "character": "Jake Sully",
+          "file": "avatar/jake-sully.webp",
+          "bg": "linear-gradient(135deg,#2563EB,#06B6D4)"
+        }
+      ]
+    }
+  ]
+}
