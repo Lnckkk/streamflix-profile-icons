@@ -9,7 +9,8 @@
         {
           "character": "Jake Sully",
           "file": "avatar/jake-sully.webp",
-          "bg": "linear-gradient(135deg,#2563EB,#06B6D4)"
+          "bg": "linear-gradient(135deg,#2563EB,#06B6D4)",
+          "pos": "30% 20%"
         }
       ]
     }
