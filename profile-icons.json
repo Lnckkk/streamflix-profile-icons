@@ -1,40 +1,30 @@
 {
-  "version": 6,
-  "base": "https://cdn.jsdelivr.net/gh/Lnckkk/streamflix-profile-icons@v6",
+  "version": 7,
+  "base": "https://cdn.jsdelivr.net/gh/Lnckkk/streamflix-profile-icons@v7",
   "groups": [
     {
       "key": "avatar",
       "title": "Avatar",
-      "icons": [
+      "variants": [
         {
-          "character": "Jake Sully",
-          "file": "public-icons/avatar/jake-sully.webp",
-          "bg": "linear-gradient(135deg,#2563EB,#06B6D4)",
-          "pos": "30% 20%"
+          "key": "avatar-1",
+          "label": "Avatar",
+          "icons": [
+            { "character": "Jake Sully", "file": "avatar/1/jake.webp", "bg": "linear-gradient(135deg,#2563EB,#06B6D4)", "pos": "50% 50%" },
+            { "character": "Neytiri", "file": "avatar/1/neytiri.webp", "bg": "linear-gradient(135deg,#2563EB,#06B6D4)" },
+            { "character": "Colonel Miles Quaritch", "file": "avatar/1/colonel-miles-quaritch.webp", "bg": "linear-gradient(135deg,#2563EB,#06B6D4)"},
+            { "character": "Grace", "file": "avatar/1/grace.webp", "bg": "linear-gradient(135deg,#2563EB,#06B6D4)"},
+            { "character": "Tsu'Tey", "file": "avatar/1/tsu-tey.webp", "bg": "linear-gradient(135deg,#2563EB,#06B6D4)"},
+            { "character": "Trudy Chacon", "file": "avatar/1/trudy-chacon.webp", "bg": "linear-gradient(135deg,#2563EB,#06B6D4)"},
+          ]
         },
         {
-          "character": "Neytiri",
-          "file": "public-icons/avatar/neytiri.webp",
-          "bg": "linear-gradient(135deg,#2563EB,#06B6D4)",
-          "pos": "30% 20%"
-        },
-        {
-          "character": "Colonel Miles Quaritch",
-          "file": "public-icons/avatar/colonel-miles-quaritch.webp",
-          "bg": "linear-gradient(135deg,#2563EB,#06B6D4)",
-          "pos": "30% 20%"
-        },
-        {
-          "character": "Grace",
-          "file": "public-icons/avatar/grace.webp",
-          "bg": "linear-gradient(135deg,#2563EB,#06B6D4)",
-          "pos": "30% 20%"
-        },
-        {
-          "character": "Trudy Chacon",
-          "file": "public-icons/avatar/trudy-chacon.webp",
-          "bg": "linear-gradient(135deg,#2563EB,#06B6D4)",
-          "pos": "30% 20%"
+          "key": "avatar-2",
+          "label": "Avatar 2",
+          "icons": [
+            { "character": "Jake Sully", "file": "avatar/2/jake.webp", "bg": "linear-gradient(135deg,#0EA5E9,#22C55E)" },
+            { "character": "Neytiri", "file": "avatar/2/neytiri.webp", "bg": "linear-gradient(135deg,#0EA5E9,#22C55E)" }
+          ]
         }
       ]
     }
