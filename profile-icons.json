@@ -1,6 +1,6 @@
 {
-  "version": 11,
-  "base": "https://cdn.jsdelivr.net/gh/Lnckkk/streamflix-profile-icons@v11/public-icons",
+  "version": 12,
+  "base": "https://cdn.jsdelivr.net/gh/Lnckkk/streamflix-profile-icons@v12/public-icons",
   "groups": [
     {
       "key": "avatar",
@@ -34,6 +34,11 @@
             {
               "character": "Tsu'Tey",
               "file": "avatar/1/tsu-tey.webp",
+              "bg": "linear-gradient(135deg,#2563EB,#06B6D4)"
+            },
+            {
+              "character": "Trudy Chacon",
+              "file": "avatar/1/trudy-chacon.webp",
               "bg": "linear-gradient(135deg,#2563EB,#06B6D4)"
             }
           ]
